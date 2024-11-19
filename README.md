@@ -12,7 +12,7 @@
 
 ### Build e execução:
 ```bash
-Docker compose up --build
+docker compose up --build
 ```
 
 ### Documentação API:
